@@ -1,4 +1,4 @@
-# Geektime Rust 语言训练营
+# Geektime Rust jk private test
 
 ## 环境设置
 
