@@ -1,4 +1,4 @@
-# Geektime Rust jk private test
+# Rust jk private test
 
 ## 环境设置
 
